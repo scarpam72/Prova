@@ -1,0 +1,7 @@
+*.xml
+*.dsn
+.DS_Store
+fp-info-cache
+*Gerber/*
+*backups/*
+*.kicad_prl
